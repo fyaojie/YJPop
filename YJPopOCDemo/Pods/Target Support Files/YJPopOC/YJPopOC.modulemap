@@ -1,0 +1,6 @@
+framework module YJPopOC {
+  umbrella header "YJPopOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
